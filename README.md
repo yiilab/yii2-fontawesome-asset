@@ -21,5 +21,5 @@ or add
 to the `require` section of your `composer.json`.
 
 ````
-\yiilab\fontawesome\Asset::register($this);
+\yiilab\fontawesome\FontAwesomeAsset::register($this);
 ````
